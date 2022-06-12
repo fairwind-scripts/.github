@@ -1,1 +1,1 @@
-# fairwind-scripts
+# fairwind-scripts (external)
